@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\vs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vs"
+	}
+}
